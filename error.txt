@@ -1,0 +1,5 @@
+Still getting same error "❌ 'DataFrame' object has no attribute 'str'" for VV pipeline uploads.
+
+If i do any changes on page of vv pipeline page or rechunrn page files in browse page remains as it is, those should not be displayed
+
+Page refresh is taking too much time, can we speed it up.
